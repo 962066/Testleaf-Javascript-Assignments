@@ -1,2 +1,2 @@
 # Testleaf-Javascript-Assignments
-Primitive-Datatypes
+Primitive-Datatypes.js
